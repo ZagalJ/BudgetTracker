@@ -20,6 +20,9 @@ npm i
 ## Usage
 npm start
 
+# Demo
+![Demo](public/images/sc.png)
+
 ## Contributions
 Feel free to reach out for any contributions
 
